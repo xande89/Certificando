@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AssinadorDigitalFinep</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>demoiselle-certificate-1.0.8-SNAPSHOT</name>
+			<type>2</type>
+			<location>D:/Users/cast.alexandre/git/certificate/target/assembly</location>
+		</link>
+	</linkedResources>
+</projectDescription>
